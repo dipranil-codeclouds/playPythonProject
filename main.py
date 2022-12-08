@@ -65,3 +65,4 @@ while is_on:
             if paymentStatus:
                 value1 = make_coffee(userOrder, productIngredients)
                 print(value1)
+                var = "file"
