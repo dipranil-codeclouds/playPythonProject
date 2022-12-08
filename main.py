@@ -63,5 +63,5 @@ while is_on:
             paymentStatus = is_payment_sufficient(productCost, customerPayment)
 
             if paymentStatus:
-                value = make_coffee(userOrder, productIngredients)
-                print(value)
+                value1 = make_coffee(userOrder, productIngredients)
+                print(value1)
